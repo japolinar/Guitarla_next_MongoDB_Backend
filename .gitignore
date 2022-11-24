@@ -113,3 +113,6 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+#strapi
+usuario_strapi.txt
